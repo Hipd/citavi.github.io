@@ -1,11 +1,11 @@
 # Site settings
-title: VeryUE Test111
-SEOTitle: 非常悠逸
+title: Citavi
+SEOTitle: Citavi
 header-img: img/home-bg.jpg
 email: xxxx@gmail.com
 description: "some texts"
 keyword: "hhh, aaaa Hux"
-url: "http://test.veryue.com"              # your host, for absolute URL
+url: "http://citavi.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
