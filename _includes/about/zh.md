@@ -7,7 +7,8 @@ Hi，我是黄玄，前端 Online NPC，编程语言/编译器初心者，[Faceb
 
 ##### 编程语言倾向
 
-我倾向于 ML（“Meta Language”）等「函数式编程为主（mostly functional programming）」风格的编程语言，所以也就不难理解我的很多选择了：JavaScript 于动态类型、Scala 于 JVM 语言、Rust 于非托管语言等。
+我倾向于 ML（“Meta Language”）等「函数式编程为主（mostly functional programmin
+g）」风格的编程语言，所以也就不难理解我的很多选择了：JavaScript 于动态类型、Scala 于 JVM 语言、Rust 于非托管语言等。
 
 ![](res/2020-03-26-10-21-11.png)
 
