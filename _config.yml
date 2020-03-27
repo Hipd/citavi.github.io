@@ -2,7 +2,7 @@
 title: Double Kill
 SEOTitle: Citavi | Double Kill
 header-img: img/home-bg.jpg
-email: xxxxxx@gmail.com
+email: hi@yuelong.info
 description: "关于程序与设计、黑客与画家"
 keyword: ""
 url: "https://citavi.yuelong.info"              # your host, for absolute URL
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     xxxxx
-zhihu_username:     xxxxx
-github_username:    xxxxx
-twitter_username:   xxxxx
+# weibo_username:     xxxxx
+# zhihu_username:     xxxxx
+# github_username:    xxxxx
+# twitter_username:   xxxxx
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
